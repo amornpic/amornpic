@@ -2,7 +2,7 @@
 
 You can call me **Pic**. A passionate software developer from Thailand
 
-<img  height="230rem" align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+<img  height="200rem" align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 <!--- - 🔭 I’m currently working on ... --->
 - 🌱 I’m currently learning Go, Java, and Cloud Computing (AWS)
