@@ -58,4 +58,6 @@ You can call me **Pic**. A passionate software developer from Thailand
 
 ## My Github Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amornpic&layout=compact&theme=chartreuse-dark)
+
 [![All Stats](https://github-readme-stats.vercel.app/api?username=amornpic&rank_icon=github&theme=chartreuse-dark)](https://github.com/amornpic)
