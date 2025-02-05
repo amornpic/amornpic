@@ -1,11 +1,11 @@
 ## Hi there 👋, I'm Amornthep Sapkalyod
 
-You can call me **Pic**. A passionate software developer from Thailand
+You can call me **Prik**. A passionate software developer from Thailand
 
 <img  height="200rem" align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 <!--- - 🔭 I’m currently working on ... --->
-- 🌱 I’m currently learning Go, Java, and Cloud Computing (AWS)
+- 🌱 I’m currently learning Go and Cloud Computing (AWS)
 - 📫 How to reach me: amornpic09@gmail.com
 
 <br/>
